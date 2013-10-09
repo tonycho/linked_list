@@ -1,5 +1,5 @@
-LinkedList
-==========
+Linked List
+==========+
 I implemented the linked list in Ruby. Please feel free to use it and let me know if you have any questions
 
 Sample Code
